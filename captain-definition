@@ -5,6 +5,6 @@
 	"ENV NODE_VERSION ${NODE_VERSION:-8.9.3}",
 	"RUN bash $METEORD_DIR/lib/install_meteor.sh",
 	"COPY ./src /app",
-	"RUN bash $METEORD_DIR/lib/build_app.sh",
+	"RUN bash $METEORD_DIR/lib/build_app.sh"
 ]
 }
