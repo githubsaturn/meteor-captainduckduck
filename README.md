@@ -7,7 +7,7 @@ To run:
 
 2. Create a regular webapp in CaptainDuckDuck, name it `meteortest` and set the following env variables:
 - `ROOT_URL` `http://meteortest.captainrootdomain.domain.com`
-- `MONGO_URL` `mongodb://<USERNAME>:<PASSWORD>@srv-captain--meteor-test-db:27018/test-meteor`
+- `MONGO_URL` `mongodb://<USERNAME>:<PASSWORD>@srv-captain--meteor-test-db:27018/test-meteor?authSource=admin`
 
 3. On you local machine run:
 
