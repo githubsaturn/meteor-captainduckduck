@@ -28,7 +28,7 @@ captainduckduck deploy
 Build process for Meteor apps is ridiculously heavy. It requires at least 2 CPU cores and 4GB of RAM. And it still can take up to 4 minutes to complete. So you might see a timeout error when deploying the app.
 
 
-Forked from:
+# Forked from:
 https://github.com/meteor/simple-todos
 
 
