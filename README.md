@@ -1,5 +1,6 @@
 # Meteor Todo List with CaptainDuckDuck
 
+https://github.com/githubsaturn/captainduckduck
 
 To run:
 
