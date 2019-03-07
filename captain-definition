@@ -1,9 +1,9 @@
 {
-"schemaVersion": 1,
+"schemaVersion": 2,
 "dockerfileLines": [
 	"FROM dockersaturn/meteor",
 	"ENV NODE_VERSION ${NODE_VERSION:-8.9.3}",
-	"COPY ./src /app",
+	"COPY . /app",
 	"RUN bash $METEORD_DIR/lib/build_app.sh"
 ]
 }
