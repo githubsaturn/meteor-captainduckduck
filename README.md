@@ -1,6 +1,6 @@
-# Meteor Todo List with CaptainDuckDuck
+# Meteor Todo List with CapRover
 
-https://github.com/githubsaturn/captainduckduck
+https://github.com/caprover/caprover
 
 To run:
 
@@ -17,7 +17,7 @@ git clone https://github.com/githubsaturn/meteor-captainduckduck.git
 
 cd meteor-captainduckduck
 
-captainduckduck deploy
+caprover deploy
 
 ```
 
